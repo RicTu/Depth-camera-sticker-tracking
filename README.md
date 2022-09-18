@@ -8,9 +8,9 @@ Compare to 2D tracking results, including the depth information is able to preve
 * Control OAK-D camera: https://docs.luxonis.com/en/latest/
 
 ## How this project work
-1. We capture the RGB frame and depth frame from the OAK-D camera.
+1. Capture the RGB frame and depth frame from the OAK-D camera.
 1. Align the RGB frame and the depth frame.
-1. Filter out the stickers through the color mask.
+1. Filter out the stickers through the HSV color mask.
 1. Utilize the Hough Circles algorithm to determine the center of the stickers.
 1. Get the depth information of the sticker from the depth frame which has been aligned with the RGB frame. 
 
