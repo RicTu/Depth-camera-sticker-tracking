@@ -31,3 +31,7 @@ The tracking result contains the 2D tracking result from the RGB frame and the d
 <img src="Figures/OAK-D_FFT_work_flow.png" width="750">
 
 
+## Reference
+* This project is a side project from [Nordlinglab workshop 2021 OnCVnAI Hackathon](https://bitbucket.org/nordlinglab/nordlinglab-oncvnai_hackathon/src/master/)
+* [Hough circle in OpenCV](https://docs.opencv.org/3.4/d4/d70/tutorial_hough_circle.html)
+* The script and figures are contribute by Jose chang, Ric Tu, and Jacob Chen
