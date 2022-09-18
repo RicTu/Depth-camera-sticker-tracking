@@ -1,4 +1,4 @@
-# Digitalize finger tapping movement using RGB and depth frame from OAK-D
+# Digitalize finger tapping movement using depth camera
 This project uses the RGB frame and depth frame from the OAK-D camera to track the stickers.
 The tracking result contains the 2D tracking result from the RGB frame and the depth information from the depth frame.
 
