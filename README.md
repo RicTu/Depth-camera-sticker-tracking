@@ -16,5 +16,10 @@ The tracking result contains the 2D tracking result from the RGB frame and the d
 
 ![Alt text](./Figures/OAK-D_FFT_pipeline.pdf?raw=true "Title")
 
+![Screenshot](./Figures/OAK-D_FFT_pipeline.pdf)
+
+![OAK-D_FFT_work_flow](Figures/OAK-D_FFT_work_flow.png)
+![OAK-D_FFT_pipeline](Figures/OAK-D_FFT_pipeline.png)
+
 
 
