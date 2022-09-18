@@ -1,6 +1,5 @@
 # Digitalize finger tapping movement using depth camera
 This project uses the RGB frame and depth frame from the OAK-D camera to track the stickers.
-The tracking result contains the 2D tracking result from the RGB frame and the depth information from the depth frame.
 
 ## Foundation of OAK-D camera
 * The OAK-D camera is a depth camera that contains an AI processor inside.
@@ -24,14 +23,14 @@ The tracking result contains the 2D tracking result from the RGB frame and the d
 -->
 
 ## Work flow of this project
-* The interaction pipeline between host side (e.g. computer) and the device side (e.g. camera): 
+* The interaction pipeline between the host side (e.g. computer) and the device side (e.g. camera): 
 <img src="Figures/OAK-D_FFT_pipeline.png" width="400">
 
-* The work flow when we capture the image data from the OAK-D camera
+* The workflow after we capture the image data from the OAK-D camera:
 <img src="Figures/OAK-D_FFT_work_flow.png" width="750">
 
 
 ## Reference
-* This project is a side project from [Nordlinglab workshop 2021 OnCVnAI Hackathon](https://bitbucket.org/nordlinglab/nordlinglab-oncvnai_hackathon/src/master/)
 * [Hough circle in OpenCV](https://docs.opencv.org/3.4/d4/d70/tutorial_hough_circle.html)
-* The script and figures are contribute by Jose chang, Ric Tu, and Jacob Chen
+* This project is a side project from [Nordlinglab workshop 2021 OnCVnAI Hackathon](https://bitbucket.org/nordlinglab/nordlinglab-oncvnai_hackathon/src/master/)
+* The project is contributed by Jose chang, Ric Tu, and Jacob Chen from [Nordlinglab](https://www.nordlinglab.org/)
