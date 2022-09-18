@@ -14,6 +14,7 @@ The tracking result contains the 2D tracking result from the RGB frame and the d
 1. Utilize the Hough Circles algorithm to determine the center of the stickers.
 1. Get the depth information of the sticker from the depth frame which has been aligned with the RGB frame. 
 
+![Alt text](./Figures/OAK-D_FFT_pipeline.pdf?raw=true "Title")
 
 
 
