@@ -43,4 +43,4 @@ Compare to 2D tracking results, including the depth information is able to preve
 
 ## Reference
 * [Hough circle in OpenCV](https://docs.opencv.org/3.4/d4/d70/tutorial_hough_circle.html)
-* This project is a side project from [Nordlinglab workshop 2021 OnCVnAI Hackathon](https://bitbucket.org/nordlinglab/nordlinglab-oncvnai_hackathon/src/master/)
+* This project is a side project from [Nordlinglab workshop 2021 OnCV&AI Hackathon](https://www.nordlinglab.org/workshops/)
