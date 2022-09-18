@@ -14,12 +14,20 @@ The tracking result contains the 2D tracking result from the RGB frame and the d
 1. Utilize the Hough Circles algorithm to determine the center of the stickers.
 1. Get the depth information of the sticker from the depth frame which has been aligned with the RGB frame. 
 
-![Alt text](./Figures/OAK-D_FFT_pipeline.pdf?raw=true "Title")
-
-![Screenshot](./Figures/OAK-D_FFT_pipeline.pdf)
-
+<!---
 ![OAK-D_FFT_work_flow](Figures/OAK-D_FFT_work_flow.png)
 ![OAK-D_FFT_pipeline](Figures/OAK-D_FFT_pipeline.png)
 
+<p align="center">
+<img src="Figures/OAK-D_FFT_pipeline.png" width="400">
+</p>
+-->
+
+## Work flow of this project
+The interaction pipeline between host side (e.g. computer) and the device side (e.g. OAK-D): 
+<img src="Figures/OAK-D_FFT_pipeline.png" width="400">
+
+The work flow when we capture the image data from the OAK-D camera
+<img src="Figures/OAK-D_FFT_work_flow.png" width="800">
 
 
