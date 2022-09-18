@@ -24,10 +24,10 @@ The tracking result contains the 2D tracking result from the RGB frame and the d
 -->
 
 ## Work flow of this project
-The interaction pipeline between host side (e.g. computer) and the device side (e.g. OAK-D): 
+* The interaction pipeline between host side (e.g. computer) and the device side (e.g. camera): 
 <img src="Figures/OAK-D_FFT_pipeline.png" width="400">
 
-The work flow when we capture the image data from the OAK-D camera
-<img src="Figures/OAK-D_FFT_work_flow.png" width="800">
+* The work flow when we capture the image data from the OAK-D camera
+<img src="Figures/OAK-D_FFT_work_flow.png" width="750">
 
 
