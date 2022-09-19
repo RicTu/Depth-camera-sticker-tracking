@@ -30,6 +30,11 @@ Compare to 2D tracking results, including the depth information is able to preve
 * The workflow after we capture the image data from the OAK-D camera:
 <img src="Figures/OAK-D_FFT_work_flow.png" width="750">
 
+## Result
+* The screenshot of each caemra view and tracking result:
+<img src="Figures/screenshot.png" width="750">
+
+
 ## Conclusion
 * Using the combination of the depth camera and Hough circle is highly computation efficient.
 * The algorithm is nearly achieved real-time application.
