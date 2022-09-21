@@ -23,7 +23,7 @@ Compare to 2D tracking results, including the depth information is able to preve
 </p>
 -->
 
-## Work flow of this project
+## Workflow of this project
 * The interaction pipeline between the host side (e.g. computer) and the device side (e.g. camera): 
 <img src="Figures/OAK-D_FFT_pipeline.png" width="400">
 
